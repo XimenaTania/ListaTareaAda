@@ -1,0 +1,30 @@
+.TareaFormulario {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.tareaInput {
+    width: 350px;
+    font-size: 18px;
+    background-color: antiquewhite;
+    padding: 14px 32px 14px 16px;
+    border-radius: 4px 0 0 4px;
+    border: 2px solid green;
+    border-radius: 4px 0 0 4px;
+    outline: none;
+}
+
+.TareaBoton {
+    padding: 16px;
+    font-family: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    border: none;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    outline: none;
+    background: wheat;
+    color: black;
+    text-transform: capitalize;
+}
